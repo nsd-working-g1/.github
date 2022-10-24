@@ -1,1 +1,0 @@
-# nsd-working-g1
